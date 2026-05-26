@@ -1,0 +1,9 @@
+*.log
+steamcmd/
+Servers/*/Players/
+Servers/*/Logs/
+*.vmdk
+*.vmx
+*.key
+*.pem
+.env
